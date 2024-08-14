@@ -14,4 +14,5 @@ const styles = {
     "sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider",
 };
 
+
 export { styles };
